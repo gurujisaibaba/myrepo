@@ -5,3 +5,6 @@
 n=$(( $RANDOM%4 + 1))
 
 echo "Number is $n"
+
+
+echo "You are playing nice!"
