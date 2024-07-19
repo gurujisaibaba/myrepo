@@ -14,3 +14,5 @@ echo "You are in your third commit now"
 echo "This is V4"
 
 echo "It's V5"
+
+echo "Its V6"
