@@ -18,4 +18,4 @@ echo "It's V5"
 echo "Its V6.1"
 
 
-echo "Its V8.2 updated in design"
+echo "Its V8.1 updated in design"
