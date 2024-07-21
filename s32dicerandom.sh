@@ -17,4 +17,4 @@ echo "It's V5"
 
 echo "Its V6"
 
-echo "Its V7"
+echo "Its V7 updated in design"
