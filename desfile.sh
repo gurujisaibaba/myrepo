@@ -1,1 +1,1 @@
-echo "V1"
+echo "Design V1"
